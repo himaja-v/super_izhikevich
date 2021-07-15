@@ -108,4 +108,5 @@ def createCell():
     plotMyData(myCell)
     
 if __name__=='__main__':
+    """Testing code"""
     createCell()
